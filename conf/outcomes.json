@@ -1,0 +1,46 @@
+[
+  {
+    "id": "57fd4f12-6c79-46c1-a289-bafc150901af",
+    "description": "Career-Ready Competencies (Core IMPACTS)"
+  },
+  {
+    "id": "53b63675-9420-411e-9c3f-0e0698ced4e5",
+    "description": "Critical Thinking: Using logic and reasoning to identify the strengths and weaknesses of alternative approaches to solving problems and making decisions. "
+  },
+  {
+    "id": "a052dd6e-ea8a-4263-b651-941d09d0be85",
+    "description": "Ethical Reasoning: Assessing one's own ethical values, recognizing ethical issues in a variety of settings, thinking about how different perspectives might apply to ethical dilemmas, and considering the ramifications of alternative actions."
+  },
+  {
+    "id": "c21e1ff6-14fe-4391-a231-60efdd1c12ec",
+    "description": "Information Literacy: Recognizing when information is needed, and locating, evaluating, synthesizing, and effectively using the needed information, while appropriately crediting the original source of information."
+  },
+  {
+    "id": "e03479bc-aa51-4be0-b0e6-b688ad1c8ce6",
+    "description": "Inquiry and Analysis: Exploring the world, and supporting informed conclusions through the collection, evaluation, and use of relevant evidence."
+  },
+  {
+    "id": "0eb0fb21-6fc7-4abd-b5e1-544f28c692d9",
+    "description": "Intercultural Competence: Developing knowledge, skills and behaviors that support effective and appropriate interaction in a variety of cultural contexts."
+  },
+  {
+    "id": "5c3ea70c-e35a-4389-b758-a066fddaa157",
+    "description": "Perspective-Taking: Considering perspectives other than one's own and allowing new information, differing opinions, and others' experiences to impress upon one's thinking, understanding, and appreciation of others."
+  },
+  {
+    "id": "f8728a67-60fd-4ae4-8a74-cd4898505011",
+    "description": "Persuasion: Using messages that are intentionally designed to appeal to another's reason, emotions, or both, in order to enact change."
+  },
+  {
+    "id": "51744c67-498a-44c3-ba38-9794b5c40fc6",
+    "description": "Problem-Solving: Designing, evaluating, and implementing strategies to solve problems using data, knowledge and facts."
+  },
+  {
+    "id": "9fc6d808-6b8d-4e42-860e-80c01baf4eb1",
+    "description": "Teamwork: Building and maintaining collaborative relationships to work effectively toward common goals, while appreciating diverse viewpoints and shared responsibilities."
+  },
+  {
+    "id": "fd44c8bc-c676-450d-9c69-aba5d11b2810",
+    "description": "Time Management: Prioritizing and structuring tasks and resources to achieve an effective use of time while performing goal-directed activities."
+  }
+]
